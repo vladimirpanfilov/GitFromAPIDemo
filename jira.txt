@@ -1,0 +1,2 @@
+Hi there!
+This is attachment for API test 
